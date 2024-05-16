@@ -1,8 +1,2 @@
-const isRadian = (x) => {
-    if (typeof x === "number") return true;
-    else if (typeof x === "bigint") return true;
-    else if (Array.isArray(x)) return x.map((element, index, arr) => isRadian(element));
-    return false;
-}
-
+const isRadian = (x) => (typeof x === "number") ? true : (Array.isArray(x)) ? x.map((e, i, a) => isRadian(e)) : false;
 module.exports = isRadian;
