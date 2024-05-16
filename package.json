@@ -1,0 +1,39 @@
+{
+  "name": "is-radian",
+  "version": "1.0.0",
+  "description": "determine whether an input is a radian",
+  "main": "is-radian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okistuff/is-radian.git"
+  },
+  "keywords": [
+    "radian",
+    "math",
+    "sine",
+    "boolean",
+    "framework",
+    "react",
+    "nextjs",
+    "vercel",
+    "rust",
+    "lazio",
+    "sslazio",
+    "ai",
+    "openai",
+    "llm",
+    "scala",
+    "java",
+    "kotlin",
+    "binary"
+  ],
+  "author": "okistuff",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/okistuff/is-radian/issues"
+  },
+  "homepage": "https://github.com/okistuff/is-radian#readme"
+}
