@@ -1,6 +1,6 @@
 {
   "name": "is-radian",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "determine whether an input is a radian",
   "main": "is-radian.js",
   "scripts": {
