@@ -20,15 +20,14 @@
     "nextjs",
     "vercel",
     "rust",
-    "lazio",
-    "sslazio",
     "ai",
     "openai",
     "llm",
     "scala",
     "java",
     "kotlin",
-    "binary"
+    "binary",
+    "linear-algebra"
   ],
   "author": "okistuff",
   "license": "Unlicense",
